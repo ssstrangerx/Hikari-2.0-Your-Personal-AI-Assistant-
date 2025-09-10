@@ -27,4 +27,9 @@ It helps you automate daily tasks with natural voice commands.
 - `requests` + `BeautifulSoup` for weather & news scraping  
 
 ---
+## 🚀 Getting Started
 
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/ssstrangerx/Hikari-2.0.git
+cd Hikari-2.0
