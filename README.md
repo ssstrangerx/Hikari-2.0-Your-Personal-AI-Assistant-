@@ -31,5 +31,4 @@ It helps you automate daily tasks with natural voice commands.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ssstrangerx/Hikari-2.0.git
-cd Hikari-2.0
+git clone https://github.com/ssstrangerx/Hikari-2.0-Your-Personal-AI-Assistant-
