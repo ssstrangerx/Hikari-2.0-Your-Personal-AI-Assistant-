@@ -11,4 +11,6 @@ beautifulsoup4
 
 asyncio is part of Python’s standard library, but I kept it for clarity (you can remove it if you want).
 
-Some platforms may require pyaudio for speech_recognition to work (especially on Windows/Linux). If you face installation issues, you can add: pyaudio
+Some platforms may require pyaudio for speech_recognition to work (especially on Windows/Linux). 
+If you face installation issues, you can add: pyaudio
+
